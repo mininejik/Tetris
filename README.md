@@ -1,1 +1,5 @@
-# tetris
+↑ rotate 
+
+← → move
+
+ ↓ fall faster
